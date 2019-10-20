@@ -19,4 +19,4 @@ You need the following libraries from the Arduino library manager:
 
 You'll also need some ISP programmer device to flash HoodLoader2. The IwitVolumeKnob GitHub page has [some instructions on how to do this](https://github.com/M-Reimer/IwitVolumeKnob#burning-the-bootloader).
 
-After burning the bootloader, you can just upload Avidemux Control via the Arduino IDE.
+After burning the bootloader, you can just upload RocWeb Control via the Arduino IDE.
